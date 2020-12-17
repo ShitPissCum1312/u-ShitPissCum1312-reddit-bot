@@ -30,7 +30,7 @@ All three of these scripts are made so that if they crash (most of the times due
 
 ## Other scripts
 
-banned.py is used for getting the list of subreddits you are banned in and adds them to banned.db. This is to prevent your bot from attempting to reply in banned subs and is also useful for avoiding account suspension for ban evasion if you run this on your alt account. All three of the main scripts check banned.db before commenting. It ca also post lists of banned subs and ban messages, more about that explained inside the script itself.
+banned.py is used for getting the list of subreddits you are banned in and adds them to banned.db. This is to prevent your bot from attempting to reply in banned subs and is also useful for avoiding account suspension for ban evasion if you run this on your alt account. All three of the main scripts check banned.db before commenting. It can also post lists of banned subs and ban messages, more about that explained inside the script itself.
 
 fuck.py is used for spamming a specific post, more explained inside the script.
 
