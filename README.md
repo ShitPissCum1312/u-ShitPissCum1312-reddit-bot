@@ -18,7 +18,7 @@ To run you will need Python with the following libraries installed
 - dataset
 
 ## Main scripts
-Main part of this bot is made out of three scripts: bot.py, mentions.py and replies.py. Those should be different threads of the same process but I didn't know how to make threads in Python when I made this, and I didn't care to fix it.
+Main part of this bot is made out of three scripts: bot.py, mentions.py and replies.py. Those should be different threads of the same process but I didn't know how to make threads in Python when I made this, and I didn't care to fix it. You have to run all three scripts separately in different cmd/terminal windows.
 
 bot.py is the main script and it looks for comments by u/CoolDownBot and replies to them.
 
